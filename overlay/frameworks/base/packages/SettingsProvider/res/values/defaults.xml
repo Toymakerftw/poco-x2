@@ -43,5 +43,8 @@
 
     <!-- Default state of tap to wake -->
     <bool name="def_double_tap_to_wake">false</bool>
+
+    <!-- Enable auto rotate by default -->
+    <bool name="def_accelerometer_rotation">true</bool>
 </resources>
 
