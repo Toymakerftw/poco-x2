@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/wave_phoenix.mk
+    $(LOCAL_DIR)/descendant_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    wave_phoenix-user \
-    wave_phoenix-userdebug \
-    wave_phoenix-eng
+    descendant_phoenix-userdebug \
+    descendant_phoenix-user \
+    descendant_phoenix-eng
